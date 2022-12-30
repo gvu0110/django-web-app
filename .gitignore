@@ -1,0 +1,10 @@
+build/
+.coverage
+dist/
+.DS_Store
+__pycache__
+*.egg*
+.venv*/
+.coverage
+.coverage.*
+coverage.xml
